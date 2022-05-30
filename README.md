@@ -17,8 +17,8 @@ xml_to_txt.py - 라벨 수정 파일
 제우 2 - 모델 : yolov5l, batch size : 64, image size : 640, out of memory  
 제우 3 - 모델 : yolov5m, batch size : 64, image size : 640, out of memory 
 
-제우 1 - 모델 : yolov5s, batch size : 32, image size : 640, success     
-제우 2 - 모델 : yolov5m, batch size : 32, image size : 640, success     
+제우 5 - 모델 : yolov5s, batch size : 32, image size : 640, success     
+제우 8 - 모델 : yolov5m, batch size : 32, image size : 640, success     
 
 
 데이터 셋 링크 : https://aihub.or.kr/aidata/8007  
