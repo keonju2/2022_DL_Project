@@ -2,6 +2,7 @@
 건주 파일  
 xml_to_txt.py - 라벨 수정 파일  
 detect_test.ipynb - 시연 영상 적용 파일  
+yolov5_jupyterlab.ipynb - GCP를 이용한 Jupyter Lab 적용 파일  
 
 효준 파일 - pretrained model  
 효준 1 - 모델 : yolov5x, batch size : 64, image size : 640, out of memory  
