@@ -24,5 +24,5 @@ xml_to_txt.py - 라벨 수정 파일
 
 
 데이터 셋 링크 : https://aihub.or.kr/aidata/8007  
-학습 환경 : colab pro 사용  
-구글 드라이브 : https://drive.google.com/drive/folders/1tuDEf-stZClDnTJwrYx_rD8asx92xcnr
+학습 환경 : colab pro 사용, GCP 사용 
+시연 영상 : https://drive.google.com/drive/folders/1b1ci-6Wo_cHsmKmagt_0B2Bx8ayw0j2H?usp=sharing
