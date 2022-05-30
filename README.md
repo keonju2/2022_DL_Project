@@ -26,7 +26,7 @@ xml_to_txt.py - 라벨 수정 파일
 데이터 셋 링크 : https://aihub.or.kr/aidata/8007  
 학습 환경 : colab pro 사용 (Tesla P100-PCIE-16GB)  
            GCP 사용 (Tesla V100-SXM2-16GB) - multi-GPU , n1-standard-8 (8 vCPUs, 30 GB RAM)  
-                                             Ubuntu 20.04
+                                             Ubuntu 20.04  
                                              TensorFlow Enterprise 2.8 (with LTS and Intel® MKL-DNN/MKL)  
                                              부팅 디스크 300 GB disk  
                                              데이터 디스크 200 GB disk  
